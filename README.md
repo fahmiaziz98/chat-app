@@ -1,2 +1,2 @@
 # chat-app
-Project pertama Node. Js
+Masih banyak bugs
